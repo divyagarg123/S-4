@@ -1,6 +1,6 @@
 # S-4
 
-1.ipynb
+**1.ipynb**
 
 **Target**:\
   Get the set-up right\
@@ -17,7 +17,7 @@
   Model is quite good even without using gap and dropout
   
   
-  2.ipynb
+  **2.ipynb**
   
   **Target**:\
   Use Dropout\
@@ -32,3 +32,17 @@
   No overfitting
   Model is not performing as expected
   Accuracy is reaching till 99.08 percent only
+  
+  **3.ipynb**
+  
+  **Target:**\
+Use Max pooling at proper place\
+Use Image transforms (rotation)
+
+**Results:**\
+Parameters: 10076\
+Best Training Accuracy: 98.93\
+Best Test Accuracy: 99.26
+
+**Analysis:**\
+Model is not performing as expected Accuracy is reaching till 99.26 percent only
