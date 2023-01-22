@@ -1,6 +1,6 @@
 # S-4
 
-1.ipynb
+**1.ipynb**
 
 **Target**:\
   Get the set-up right\
@@ -17,7 +17,7 @@
   Model is quite good even without using gap and dropout
   
   
-  2.ipynb
+  **2.ipynb**
   
   **Target**:\
   Use Dropout\
